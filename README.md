@@ -52,6 +52,7 @@ It’s part of a larger *Smart Mirror AI* concept combining health insights, out
 - **Computer Vision** – Skin-region segmentation and condition classification on live video.  
 - **System Design** – Modular config architecture and clean launch workflow.  
 - **Hardware-Software Integration** – Camera I/O, multi-threading, and dual HEF runtime.
+- **C/C++ Integration** - Utilizes HailoRT C-based SDK for low-level hardware inference acceleration via Python bindings.
 
 ---
 
