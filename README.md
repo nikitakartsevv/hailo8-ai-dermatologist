@@ -4,6 +4,11 @@
 **Status:** ≈ 90–95 % complete (fully functional GUI + Hailo HEF markers)  
 **Hardware:** Raspberry Pi 5 (8 GB) + Hailo-8L AI Accelerator  
 
+
+**First working real-time AI Dermatologist** GUI built on a **Hailo-8L Edge AI accelerator** (2025).
+Entirely developed from scratch — architecture, Dual HEF engine, GUI overlay, and on-device deployment by **Nikita K. (@kitakart).**
+
+
 ---
 
 ## 🌍 Overview
@@ -47,6 +52,18 @@ It’s part of a larger *Smart Mirror AI* concept combining health insights, out
 - **Computer Vision** – Skin-region segmentation and condition classification on live video.  
 - **System Design** – Modular config architecture and clean launch workflow.  
 - **Hardware-Software Integration** – Camera I/O, multi-threading, and dual HEF runtime.
+
+---
+
+🚀 Future Work
+
+Refine AI marker accuracy and model calibration
+
+Add voice assistant (Jarvis mode)
+
+Integrate outfit recognition + stylist module
+
+Extend to Hailo-10H / 10B hardware
 
 ---
 
