@@ -140,15 +140,25 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 smart_mirror_standalone_hailo.py
+
 ✅ Make sure HailoRT drivers are installed and models exist in /models/.
 
-Demo: 
+---
+---
+
+Demo:
+
+---
 
 🏆 Credits & Authorship
 Developed entirely by Nikita K. (@kitakart) — from architecture design, model integration, GUI, and hardware setup to final on-device deployment.
 
+---
+
 🧩 License
 MIT License © 2025 Nikita K.
+
+---
 
 💬 Contact
 📧 nkartsev@ucsc.edu
